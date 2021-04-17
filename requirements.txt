@@ -4,6 +4,11 @@ cachetools==4.2.1
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
+
+gunicorn==20.1.0
+itsdangerous==1.1.0
+Jinja2==2.11.3
+
 Flask==1.1.2
 Flask-JSGlue==0.3.1
 flatbuffers==1.12
